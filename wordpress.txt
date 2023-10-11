@@ -101,3 +101,5 @@ wp/wp-signup.php
 wp/xmlrpc.php
 xmlrpc%2ephp
 xmlrpc.php
+_wpeprivate
+_wpeprivate/config.json
