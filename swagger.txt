@@ -41,7 +41,6 @@ apidocs
 apidocs/swagger.json
 docs
 docs/index.php
-graphql
 swagger
 swagger-resources
 swagger-ui.html
