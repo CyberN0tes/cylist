@@ -1,3 +1,4 @@
+phpini.php
 mailchimp.php
 session.php
 backup.php
